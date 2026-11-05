@@ -27,11 +27,11 @@ this policy, and also check https://koutnet.pw
 
 ## LLM Usage
 
-KOutNet follows a "human in the loop" principle: when an LLM, human
+PPK follows a "human in the loop" principle: when an LLM, human
 must be a making decisions beyond mere prompting. The output must express
 the operator`s unique humanity in some way
 
-So nobody in KOutNet should know you used an LLM - not because you`re
+So nobody in PPK should know you used an LLM - not because you`re
 concealing  it, but because the results are functionally indistinguishable
 from what you could produce yourself
 
